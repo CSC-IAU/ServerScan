@@ -1,7 +1,6 @@
 # ServerScan
 
 **Developer:** Munther Abdulaziz Al-Qurzai  
-**Email:** 2220001172@iau.edu.sa
 
 ## Description
 ServerScan1 is a Python tool designed to automate the process of identifying server types and versions. Once the server information is gathered, the tool proceeds to search for any known vulnerabilities associated with that specific server version. This aids in proactive security assessments and vulnerability management.
