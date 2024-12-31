@@ -27,5 +27,4 @@ Clone the repository and install the required Python packages:
 ```bash
 git clone https://github.com/CSC-IAU/ServerScan.git
 cd ServerScan
-pip install -r requirements.txt
 ```
